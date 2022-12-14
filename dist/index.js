@@ -1,2 +1,5 @@
 "use strict";
-console.log("test");
+Object.defineProperty(exports, "__esModule", { value: true });
+const test_1 = require("./test");
+console.log(test_1.dain);
+const dd = "dain";
